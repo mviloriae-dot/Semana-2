@@ -1,0 +1,8 @@
+Es importante para un desarrollador saber usar la terminal porque ofrece velocidad y acceso a herramientas
+avanzadas permitiendo navegar y organizar archivos para trabajar de forma más eficiente, 
+automatizar tareas y comprender mejor cómo funciona el sistema operativo. 
+Para un desarrollador, saber usar la terminal para navegar y organizar archivos dentro de un proyecto no es solo una habilidad técnica, 
+sino una herramienta estratégica que impacta directamente en la productividad,
+la calidad del trabajo y la capacidad de colaborar en entornos profesionales.
+La terminal es el lenguaje universal de los sistemas operativos y de los proyectos de software modernos, esto significa
+ser mas eficiente y estar preparado para futuros proyectos en un entorno de trabajo. 
